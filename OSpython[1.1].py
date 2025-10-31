@@ -5,8 +5,7 @@ import random
 import shutil
 import shlex
 import urllib.request
-# กำหนดค่าเริ่มต้น
-# d=0 ไม่ได้ใช้งานในโค้ดปัจจุบัน แต่เก็บไว้ตามต้นฉบับ
+
 d=0 
 
 print("《จำลอง os โดย python3》")
